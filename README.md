@@ -3,7 +3,7 @@
 This repository hosts the source code for my personal portfolio website, showcasing my work as a UI/UX & Web Designer and Computer Science student. It features a responsive layout, custom CSS animations, and details about my academic journey, projects, skills, and certifications.
 
 ## 🌐 Live Demo
-[[https://aeruby.github.io/rhuvieportfolio/]]
+https://aeruby.github.io/rhuvieportfolio/
 
 ---
 
